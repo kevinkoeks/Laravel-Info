@@ -15,7 +15,10 @@ https://www.youtube.com/watch?v=52WpfAQfgXs&list=PL0eyrZgxdwhy7Woo2VRRDMmTXXYT_i
 ### Part 4: How to Configure a Development Build with Laravel
 https://www.youtube.com/watch?v=in_4vkUlrcg&list=PL0eyrZgxdwhy7Woo2VRRDMmTXXYT_iaYO&index=4
 
-### Part 5: 
-(The YouTuber is hopefully working on a fifth part.)
+### Part 5: How to Use Get Type Routes in Laravel
+https://www.youtube.com/watch?v=9tZZai4aZ4k&list=PL0eyrZgxdwhy7Woo2VRRDMmTXXYT_iaYO&index=5
+
+### Part 6: 
+(The YouTuber is hopefully working on a sixth part.)
 
 - This content is for educational purposes.
